@@ -29,7 +29,7 @@ $dbname = "stark21";
   <input type="submit">
 </form> -->
 
-<h2>INDUSTRIAS STARK</h2>
+<h1>STARK INDUSTRIES</h1>
 
 <h2>NAVES DISPONIBLES</h2>
 <hr>
