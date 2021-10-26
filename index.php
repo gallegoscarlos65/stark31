@@ -31,7 +31,7 @@ $dbname = "stark21";
 
 <h1>STARK INDUSTRIES</h1>
 
-<h2>NAVES DISPONIBLES</h2>
+<h2>NAVES DISPONIBLES en la empresa de stark</h2>
 <hr>
   <table class="table table-striped table-hover">
     <thead>
